@@ -1,6 +1,6 @@
 ### Happywhale - Whale and Dolphin Identification
 ```
-Kaggle Competition
+Kaggle Competition: More to be added after competition
 
 ```
 ______________________________________________________________________
